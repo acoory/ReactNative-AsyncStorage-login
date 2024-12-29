@@ -14,7 +14,7 @@ Découvrez le fonctionnement du projet à travers cette vidéo de speed code :
 
 Cette vidéo explique comment utiliser AsyncStorage pour maintenir une session utilisateur et éviter une reconnexion à chaque ouverture de l'application.
 
-[![Watch the video](https://i.ytimg.com/an_webp/i-XfjQXO5BI/mqdefault_6s.webp?du=3000&sqp=CNLWw7sG&rs=AOn4CLByrWKgaCtcZjtfwXpSQ1KIt4RcsQ)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://i.ytimg.com/an_webp/i-XfjQXO5BI/mqdefault_6s.webp?du=3000&sqp=CNLWw7sG&rs=AOn4CLByrWKgaCtcZjtfwXpSQ1KIt4RcsQ)](https://www.youtube.com/watch?v=i-XfjQXO5BI&t=8s)
 
 ## Fonctionnalités principales 🔄
 
